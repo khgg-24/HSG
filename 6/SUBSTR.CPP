@@ -114,7 +114,6 @@ int main() {
 
     int k;
     cin >> k;
-
     string s;
     cin >> s;
 
